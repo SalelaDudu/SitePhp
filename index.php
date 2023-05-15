@@ -9,7 +9,15 @@
 </head>
 
 <body>
-  <?php echo('<div> Hello World! </div>'); ?>
+  <!-- Inclusão do header -->
+  <?php include"assets/php/header.php";?>
+
+  <!-- Conteúdo Principal -->
+
+  <!-- Inclusão do footer  -->
+  <?php include"assets/php/footer.php";?>
 </body>
+<!-- Inclusão dos scripts -->
+<?php include"assets/php/scripts.php";?>
 
 </html>
