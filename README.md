@@ -1,5 +1,6 @@
 # Descrição:
-        A ideia é ser um site em php com funcionalidades básicas como login, verificação de sessão, integração com banco de dados, e sistema de rotas.
+
+A ideia é ser um site em php com funcionalidades básicas como login, verificação de sessão, integração com banco de dados, e sistema de rotas.
 
 
 ## Objetivos
